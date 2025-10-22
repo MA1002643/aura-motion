@@ -42,7 +42,7 @@
 
 ## ✨ Overview
 
-very simple watch with aurora colour effect, with full name instead of numbers displayed around the clock.
+A straightforward clock with an aurora colour effect, with the full name instead of numbers displayed around the clock.
 
 ---
 
